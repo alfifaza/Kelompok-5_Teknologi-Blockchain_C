@@ -1,0 +1,123 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="ghjLlt_K60wCeRNqblZu">
+    <mxGraphModel dx="1290" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Ethereum Sepolia Network - On-Chain" vertex="1">
+          <mxGeometry height="212" width="450" x="71.5" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-24" parent="_Nz9_HwmxMTMF5OXWdZS-23" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Smart Contracts" vertex="1">
+          <mxGeometry height="172.74074074074073" width="242.4911660777385" x="36.57243816254417" y="24.116402116402114" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-25" parent="_Nz9_HwmxMTMF5OXWdZS-24" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="User Registry Contract" vertex="1">
+          <mxGeometry height="30.285714285714285" width="174.91166077738515" x="39.75265017667844" y="32.529100529100525" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-26" parent="_Nz9_HwmxMTMF5OXWdZS-24" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Medical Record Contract" vertex="1">
+          <mxGeometry height="30.285714285714285" width="186.83745583038868" x="34.187279151943464" y="118.8994708994709" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-27" edge="1" parent="_Nz9_HwmxMTMF5OXWdZS-24" source="_Nz9_HwmxMTMF5OXWdZS-25" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="_Nz9_HwmxMTMF5OXWdZS-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-28" parent="_Nz9_HwmxMTMF5OXWdZS-23" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Blockchain of&#xa;Transactions" vertex="1">
+          <mxGeometry height="54.96296296296296" width="88.25088339222614" x="338.69257950530033" y="83.005291005291" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-29" edge="1" parent="_Nz9_HwmxMTMF5OXWdZS-23" source="_Nz9_HwmxMTMF5OXWdZS-24" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="_Nz9_HwmxMTMF5OXWdZS-28" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-30" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Ethereum Gate" vertex="1">
+          <mxGeometry height="100" width="513" x="40" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-31" parent="_Nz9_HwmxMTMF5OXWdZS-30" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Ethers.js / Web3.js" vertex="1">
+          <mxGeometry height="43.54838709677419" width="184.01086956521738" x="42.75" y="34.677419354838705" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-32" parent="_Nz9_HwmxMTMF5OXWdZS-30" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Ethereum JSON RPC" vertex="1">
+          <mxGeometry height="43.54838709677419" width="188.65760869565216" x="296.4619565217391" y="34.677419354838705" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-33" edge="1" parent="_Nz9_HwmxMTMF5OXWdZS-30" source="_Nz9_HwmxMTMF5OXWdZS-31" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="_Nz9_HwmxMTMF5OXWdZS-32" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-34" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="3rd Party Client" vertex="1">
+          <mxGeometry height="92" width="237" x="363" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-35" parent="_Nz9_HwmxMTMF5OXWdZS-34" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="MetaMask Wallet" vertex="1">
+          <mxGeometry height="40.064516129032256" width="167.29411764705884" x="42.752941176470586" y="31.90322580645161" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="External Storage - Off-Chain" vertex="1">
+          <mxGeometry height="172" width="211" x="90.75999999999999" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-37" parent="_Nz9_HwmxMTMF5OXWdZS-36" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="IPFS Storage&#xa;Rekam Medis Asli" vertex="1">
+          <mxGeometry height="102" width="136" x="46" y="43" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-38" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Web Application - Front End" vertex="1">
+          <mxGeometry height="360" width="270" x="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-39" parent="_Nz9_HwmxMTMF5OXWdZS-38" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Core Logic" vertex="1">
+          <mxGeometry height="115.6056338028169" width="222.03045685279187" x="29.46700507614213" y="229.69014084507043" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-40" parent="_Nz9_HwmxMTMF5OXWdZS-39" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Access Control Module" vertex="1">
+          <mxGeometry height="27.380281690140844" width="150.76142131979694" x="41.11675126903553" y="21.802816901408452" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-41" parent="_Nz9_HwmxMTMF5OXWdZS-39" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Medical Record Module" vertex="1">
+          <mxGeometry height="27.380281690140844" width="153.50253807106597" x="39.74619289340101" y="74.53521126760563" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-42" parent="_Nz9_HwmxMTMF5OXWdZS-38" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Aktor Modules" vertex="1">
+          <mxGeometry height="168.33802816901408" width="212.43654822335023" x="34.263959390862944" y="23.323943661971832" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-43" parent="_Nz9_HwmxMTMF5OXWdZS-42" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Pasien Module" vertex="1">
+          <mxGeometry height="27.380281690140844" width="110.32994923857868" x="56.878172588832484" y="21.802816901408452" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-44" parent="_Nz9_HwmxMTMF5OXWdZS-42" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Tenaga Medis Module" vertex="1">
+          <mxGeometry height="27.380281690140844" width="143.90862944162436" x="39.74619289340101" y="74.53521126760563" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-45" parent="_Nz9_HwmxMTMF5OXWdZS-42" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Admin Module" vertex="1">
+          <mxGeometry height="27.380281690140844" width="110.32994923857868" x="56.878172588832484" y="127.26760563380282" as="geometry" />
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-46" edge="1" parent="_Nz9_HwmxMTMF5OXWdZS-38" source="_Nz9_HwmxMTMF5OXWdZS-42" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="_Nz9_HwmxMTMF5OXWdZS-39" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-47" edge="1" parent="1" source="_Nz9_HwmxMTMF5OXWdZS-38" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="_Nz9_HwmxMTMF5OXWdZS-36" value="Upload/Fetch CID">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-51" edge="1" parent="1" source="_Nz9_HwmxMTMF5OXWdZS-30" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="_Nz9_HwmxMTMF5OXWdZS-23" value="Deploy/Execute">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-53" edge="1" parent="1" source="_Nz9_HwmxMTMF5OXWdZS-34" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="685" as="sourcePoint" />
+            <mxPoint x="330" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-54" edge="1" parent="1" source="_Nz9_HwmxMTMF5OXWdZS-30" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.853;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" target="_Nz9_HwmxMTMF5OXWdZS-34" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="750" as="sourcePoint" />
+            <mxPoint x="470" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Nz9_HwmxMTMF5OXWdZS-55" edge="1" parent="1" source="_Nz9_HwmxMTMF5OXWdZS-30" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="_Nz9_HwmxMTMF5OXWdZS-38" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="670" />
+              <mxPoint x="40" y="650" />
+              <mxPoint x="20" y="130" />
+            </Array>
+            <mxPoint x="420" y="630" as="sourcePoint" />
+            <mxPoint x="470" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
