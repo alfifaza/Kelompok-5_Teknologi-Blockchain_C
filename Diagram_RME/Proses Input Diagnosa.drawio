@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="zBOjC1tRFlh53vZs4rAq">
+    <mxGraphModel dx="1032" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-9" edge="1" parent="1" source="hRON7nAhzA9NiYvS2aBK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hRON7nAhzA9NiYvS2aBK-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mulai" vertex="1">
+          <mxGeometry height="70" width="110" x="359" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-10" edge="1" parent="1" source="hRON7nAhzA9NiYvS2aBK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hRON7nAhzA9NiYvS2aBK-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Masukkan Diagnosa &amp;amp; Unggah Dokumen Medis" vertex="1">
+          <mxGeometry height="60" width="220" x="304" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-11" edge="1" parent="1" source="hRON7nAhzA9NiYvS2aBK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hRON7nAhzA9NiYvS2aBK-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistem Garis Hashing SHA-256 pada Data" vertex="1">
+          <mxGeometry height="60" width="140" x="344" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-12" edge="1" parent="1" source="hRON7nAhzA9NiYvS2aBK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hRON7nAhzA9NiYvS2aBK-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Unggah Dokumen Medis ke IPFS (Off-Chain)" vertex="1">
+          <mxGeometry height="60" width="156" x="336" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-13" edge="1" parent="1" source="hRON7nAhzA9NiYvS2aBK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hRON7nAhzA9NiYvS2aBK-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Terima Alamat CID dari IPFS" vertex="1">
+          <mxGeometry height="60" width="206" x="311" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-14" edge="1" parent="1" source="hRON7nAhzA9NiYvS2aBK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hRON7nAhzA9NiYvS2aBK-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Kirim Hash &amp;amp; CID ke Smart Contract (On-Chain)" vertex="1">
+          <mxGeometry height="60" width="156" x="336" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-20" edge="1" parent="1" source="hRON7nAhzA9NiYvS2aBK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hRON7nAhzA9NiYvS2aBK-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-21" connectable="0" parent="hRON7nAhzA9NiYvS2aBK-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
+          <mxGeometry relative="1" x="0.3055" y="1" as="geometry">
+            <mxPoint x="11" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Dokter Transaksi Melalui MetaMask ?" vertex="1">
+          <mxGeometry height="130" width="130" x="349" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-15" edge="1" parent="1" source="hRON7nAhzA9NiYvS2aBK-7" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hRON7nAhzA9NiYvS2aBK-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="615" />
+              <mxPoint x="240" y="160" />
+            </Array>
+            <mxPoint x="360" y="430" as="sourcePoint" />
+            <mxPoint x="410" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-16" connectable="0" parent="hRON7nAhzA9NiYvS2aBK-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
+          <mxGeometry relative="1" x="-0.8478" y="2" as="geometry">
+            <mxPoint x="4" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-22" edge="1" parent="1" source="hRON7nAhzA9NiYvS2aBK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hRON7nAhzA9NiYvS2aBK-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Proses Validasi &amp;amp; Pengembangan di Ethereum Sepolia" vertex="1">
+          <mxGeometry height="60" width="190" x="319" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-23" edge="1" parent="1" source="hRON7nAhzA9NiYvS2aBK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413.4999999999998" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Tampilkan Notifikasi &amp;amp; Hash Transaksi" vertex="1">
+          <mxGeometry height="60" width="230" x="299" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="hRON7nAhzA9NiYvS2aBK-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Selesai" vertex="1">
+          <mxGeometry height="70" width="110" x="359" y="890" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
