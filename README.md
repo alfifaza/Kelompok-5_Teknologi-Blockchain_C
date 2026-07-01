@@ -3,6 +3,8 @@ Sistem rekam medis terdesentralisasi menggunakan Ethereum Smart Contract dan IPF
 
 ## LINK WEB RME DEPLOY VIA VERCEL
 https://kelompok-5-teknologi-blockchain-c.vercel.app
+- Harus add extension Metamask (Harus ada 2 role Wallet DOKTER dan PASIEN)
+- Saldo Metamask (Sepolia ETH) cukup (bisa top-up di Sepolia Faucet)
 
 ## PENJELASAN
 - DIAGRAM RME (kumpulan diagram flowchart, class diagram, dst.)
