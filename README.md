@@ -17,7 +17,7 @@ https://kelompok-5-teknologi-blockchain-c.vercel.app
 - Blockchain: Ethereum (Solidity)
 - Penyimpanan: IPFS
 - Development Framework: Remix IDE
-- Frontend: React.js / Web3.js
+- Frontend: React.js
 
 ## Alur Sistem
 - Upload: Data medis diunggah ke IPFS -> Mendapatkan CID
