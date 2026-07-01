@@ -4,6 +4,13 @@ Sistem rekam medis terdesentralisasi menggunakan Ethereum Smart Contract dan IPF
 ## LINK WEB RME DEPLOY VIA VERCEL
 https://kelompok-5-teknologi-blockchain-c.vercel.app
 
+## PENJELASAN
+- DIAGRAM RME (kumpulan diagram flowchart, class diagram, dst.)
+- MEDICHAIN RME WEB (kumpulan codingan web MEDICHAIN)
+- SMART CONTRACT (file dari Remix IDE ada RME.sol dan contractABI.js)
+- UAS (file laporan UAS, project charter, ppt)
+- UTS (file laporan UTS, project charter, ppt)
+
 ## Tech Stack
 - Blockchain: Ethereum (Solidity)
 - Penyimpanan: IPFS
