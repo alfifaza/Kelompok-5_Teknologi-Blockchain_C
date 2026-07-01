@@ -1,6 +1,9 @@
 # Blockchain-Based Medical Record System
 Sistem rekam medis terdesentralisasi menggunakan Ethereum Smart Contract dan IPFS untuk menjamin integritas serta privasi data pasien
 
+## LINK WEB RME DEPLOY VIA VERCEL
+https://kelompok-5-teknologi-blockchain-c.vercel.app
+
 ## Tech Stack
 - Blockchain: Ethereum (Solidity)
 - Penyimpanan: IPFS
